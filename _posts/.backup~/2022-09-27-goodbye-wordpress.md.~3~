@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Wordpressをやめた理由"
+date: 2022-09-26 12:29:00
+background: '/img/bg-index.jpg'
+---
+
+-   Wordpressはブラウザで記事を書くのには便利であって、テキストエディタから投稿するのに不便。
+-   ソースコードのインデントが崩れる
+-   なぜかGoogle検索エンジンに登録できない
+-   PHPがきらい
+-   Jekyll vs Hugo
+    -   rubyが好き
